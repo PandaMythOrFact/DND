@@ -19,7 +19,7 @@ Your character is in the city of Neverwinter, when your dwarf patron and friend,
 
 <img src="Gundren Rockseeker.png" width=50%> 
 
-<img src="https://raw.githubusercontent.com/PandaMythOrFact/DND/main/Player-View/PNGs/NPCs/Good/Gundren%20Rockseeker.png" width="50%">
+<img src="https://github.com/PandaMythOrFact/DND/blob/main/PNGs/NPCs/Good/Gundren%20Rockseeker.png" width="300px" height="400px"> 
 
 
 
@@ -27,7 +27,7 @@ Your character is in the city of Neverwinter, when your dwarf patron and friend,
 
 
 <img src="Sildar Hallwinter.png" width=50%>
-<img src="https://raw.githubusercontent.com/PandaMythOrFact/DND/main/Player-View/PNGs/NPCs/Good/Sildar%20Hallwinter.png" width="50%">
+<img src="https://github.com/PandaMythOrFact/DND/blob/main/PNGs/NPCs/Good/Sildar%20Hallwinter.png" width="400px" height="400px">
 
 
 
@@ -41,7 +41,7 @@ You’ve spent much of your life in awe of the [[The Harpers]], a secretive orga
 
 
 <img src="The Harpers.png" width=50%>
-<img src="https://raw.githubusercontent.com/PandaMythOrFact/DND/main/Player-View/PNGs/Organizations/The%20Harpers.png" width="50%">
+<img src="https://github.com/PandaMythOrFact/DND/blob/main/PNGs/Organizations/The%20Harpers.png" width="280px" height="280px">
 
 
 
@@ -55,7 +55,7 @@ You have pledged yourself to the [[Order of the Gauntlet]], a devout and vigilan
 
 
 <img src="Order of the Gauntlet.png" width=50%>
-<img src="https://raw.githubusercontent.com/PandaMythOrFact/DND/main/Player-View/PNGs/Organizations/Order%20of%20the%20Gauntlet.png" width="50%">
+<img src="https://github.com/PandaMythOrFact/DND/blob/main/PNGs/Organizations/Order%20of%20the%20Gauntlet.png" width="300px" height="300px">
 
 
 [[Order of the Gauntlet]]
