@@ -6,7 +6,7 @@ Please make your character using the following:
 - Create a backstory and feel free to connect yourself to other players' backstories, but ***tell them first***.
 - Ask me questions if you really don't know what to include.
 
-## Choose your Hooks: 
+## Choose your Hooks:
 
 The **Hooks** describe why your character is traveling to Phandalin and what might motivate them to get involved in the unfolding events. Your **Background** is your character's personal history, helping define where you come from and what shaped you before embarking on this journey. Both the hook and background should work together to shape your character.
 
@@ -16,11 +16,15 @@ The **Hooks** describe why your character is traveling to Phandalin and what mig
 #### Hook 1: Meet Me in Phandalin (One Required)
 Your character is in the city of Neverwinter, when your dwarf patron and friend, [[Gundren Rockseeker]], hires your party to escort a wagon to [[Phandalin]]. [[Gundren Rockseeker|Gundren]] has gone ahead with a warrior, [[Sildar Hallwinter]], to attend to business in the town while the characters follow with the supplies. The party will be paid 10 gp each by the owner of [[Barthen’s Provisions]] in [[Phandalin]] when they deliver the wagon safely to that trading post.
 
-![Gundren Rockseeker](https://github.com/PandaMythOrFact/DND/raw/main/PNGs/Gundren%20Rockseeker.png)
+
+<img src="https://github.com/PandaMythOrFact/DND/blob/main/PNGs/NPCs/Good/Gundren%20Rockseeker.png" width="300px" height="400px"> 
+
 
 [[Gundren Rockseeker]]
 
-![Sildar Hallwinter](https://github.com/PandaMythOrFact/DND/raw/main/PNGs/Sildar%20Hallwinter.png)
+
+<img src="https://github.com/PandaMythOrFact/DND/blob/main/PNGs/NPCs/Good/Sildar%20Hallwinter.png" width="400px" height="400px">
+
 
 [[Sildar Hallwinter]]
 > [!info] **Key NPC Alert:**
@@ -29,7 +33,9 @@ Your character is in the city of Neverwinter, when your dwarf patron and friend,
 #### Hook 2: Friend of the Harpers (Optional)
 You’ve spent much of your life in awe of the [[The Harpers]], a secretive organization dedicated to promoting good and preserving history. You’ve always wanted to join, but you’ve struggled to gain the group’s attention. You’re headed to [[Phandalin]], where you hope your good deeds will gain the [[The Harpers]]’ notice.
 
-![The Harpers](https://github.com/PandaMythOrFact/DND/raw/main/PNGs/The%20Harpers.png)
+
+<img src="https://github.com/PandaMythOrFact/DND/blob/main/PNGs/Organizations/The%20Harpers.png" width="280px" height="280px">
+
 
 [[The Harpers]]
 > [!warning] **Secret Society Alert:**
@@ -38,8 +44,8 @@ You’ve spent much of your life in awe of the [[The Harpers]], a secretive orga
 #### Hook 3: Gauntlet Trainee (Optional)
 You have pledged yourself to the [[Order of the Gauntlet]], a devout and vigilant group that seeks to protect others from evildoers. Before you become a full-fledged member, you’ve decided to meet your hero, a retired adventurer named [[Daran Edermath]], who was part of the [[Order of the Gauntlet|order]] and has thwarted many local threats. [[Daran Edermath|Daran]] lives in [[Phandalin]] in a cottage beside an apple orchard. You plan to visit him and drink in his wisdom before joining the order yourself.
 
-![Order of the Gauntlet](https://github.com/PandaMythOrFact/DND/raw/main/PNGs/Order%20of%20the%20Gauntlet.png)
 
+<img src="https://github.com/PandaMythOrFact/DND/blob/main/PNGs/Organizations/Order%20of%20the%20Gauntlet.png" width="300px" height="300px">
 [[Order of the Gauntlet]]
 
 #### Hook 4: Options from Backgrounds
