@@ -4,7 +4,8 @@ Please make your character using the following:
 - Level 1 of any class, using 2024 rules (No Artificer plz)
 - Choose 1 of the 4 Hooks for your character.
 - Create a backstory and feel free to connect yourself to other players' backstories, but ***tell them first***.
-- Ask me questions if you really don't know what to include.
+- Ask me questions if you really don't know what to include.\
+- Please make sure to create a character, link them to the campaign, *THEN* edit all of the detail on your character, to ensure you have access to all my content. (Link: https://www.dndbeyond.com/campaigns/join/6577519124161521)
 
 ## Choose your Hooks: 
 
