@@ -16,15 +16,11 @@ The **Hooks** describe why your character is traveling to Phandalin and what mig
 #### Hook 1: Meet Me in Phandalin (One Required)
 Your character is in the city of Neverwinter, when your dwarf patron and friend, [[Gundren Rockseeker]], hires your party to escort a wagon to [[Phandalin]]. [[Gundren Rockseeker|Gundren]] has gone ahead with a warrior, [[Sildar Hallwinter]], to attend to business in the town while the characters follow with the supplies. The party will be paid 10 gp each by the owner of [[Barthen’s Provisions]] in [[Phandalin]] when they deliver the wagon safely to that trading post.
 
-
-<img src="Gundren Rockseeker.png" width="300px" height="400px"> 
-
+![Gundren Rockseeker](https://github.com/PandaMythOrFact/DND/raw/main/PNGs/Gundren%20Rockseeker.png)
 
 [[Gundren Rockseeker]]
 
-
-<img src="Sildar Hallwinter.png" width="400px" height="400px">
-
+![Sildar Hallwinter](https://github.com/PandaMythOrFact/DND/raw/main/PNGs/Sildar%20Hallwinter.png)
 
 [[Sildar Hallwinter]]
 > [!info] **Key NPC Alert:**
@@ -33,9 +29,7 @@ Your character is in the city of Neverwinter, when your dwarf patron and friend,
 #### Hook 2: Friend of the Harpers (Optional)
 You’ve spent much of your life in awe of the [[The Harpers]], a secretive organization dedicated to promoting good and preserving history. You’ve always wanted to join, but you’ve struggled to gain the group’s attention. You’re headed to [[Phandalin]], where you hope your good deeds will gain the [[The Harpers]]’ notice.
 
-
-<img src="The Harpers.png" width="280px" height="280px">
-
+![The Harpers](https://github.com/PandaMythOrFact/DND/raw/main/PNGs/The%20Harpers.png)
 
 [[The Harpers]]
 > [!warning] **Secret Society Alert:**
@@ -44,8 +38,8 @@ You’ve spent much of your life in awe of the [[The Harpers]], a secretive orga
 #### Hook 3: Gauntlet Trainee (Optional)
 You have pledged yourself to the [[Order of the Gauntlet]], a devout and vigilant group that seeks to protect others from evildoers. Before you become a full-fledged member, you’ve decided to meet your hero, a retired adventurer named [[Daran Edermath]], who was part of the [[Order of the Gauntlet|order]] and has thwarted many local threats. [[Daran Edermath|Daran]] lives in [[Phandalin]] in a cottage beside an apple orchard. You plan to visit him and drink in his wisdom before joining the order yourself.
 
+![Order of the Gauntlet](https://github.com/PandaMythOrFact/DND/raw/main/PNGs/Order%20of%20the%20Gauntlet.png)
 
-<img src="Order of the Gauntlet.png" width="300px" height="300px">
 [[Order of the Gauntlet]]
 
 #### Hook 4: Options from Backgrounds
