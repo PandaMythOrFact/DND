@@ -22,11 +22,13 @@ Your character is in the city of Neverwinter, when your dwarf patron and friend,
 <img src="https://raw.githubusercontent.com/PandaMythOrFact/DND/main/Player-View/PNGs/NPCs/Good/Gundren%20Rockseeker.png" width="50%">
 
 
+
 [[Gundren Rockseeker]]
 
 
 <img src="Sildar Hallwinter.png" width=50%>
 <img src="https://raw.githubusercontent.com/PandaMythOrFact/DND/main/Player-View/PNGs/NPCs/Good/Sildar%20Hallwinter.png" width="50%">
+
 
 
 
@@ -54,6 +56,7 @@ You have pledged yourself to the [[Order of the Gauntlet]], a devout and vigilan
 
 <img src="Order of the Gauntlet.png" width=50%>
 <img src="https://raw.githubusercontent.com/PandaMythOrFact/DND/main/Player-View/PNGs/Organizations/Order%20of%20the%20Gauntlet.png" width="50%">
+
 
 [[Order of the Gauntlet]]
 
